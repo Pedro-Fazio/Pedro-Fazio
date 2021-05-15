@@ -1,4 +1,4 @@
-### Opa susse 👋
+### Opa susse? 👋
 
 Sou estudante de sistemas da informação na universidade de São Paulo (USP) - ICMC. Apaixonado por tecnologia no geral, principalmente pelas áreas de programação e mídias sociais. Gosto muito de jogar jogos e estudar sobre assuntos do momento.
 
