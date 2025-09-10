@@ -1,6 +1,6 @@
 ### Opa susse? 👋
 
-Sou estudante de sistemas da informação na universidade de São Paulo (USP) - ICMC. Apaixonado por tecnologia no geral, principalmente pelas áreas de programação e mídias sociais. Gosto muito de jogar uns games e estudar sobre assuntos do momento.
+Sou bacharel em sistemas da informação pela universidade de São Paulo (USP) - ICMC. Apaixonado por tecnologia no geral, principalmente pela área de programação. Gosto muito de jogar uns games e estudar sobre assuntos do momento.
 
 Como você pode me encontrar?
 
