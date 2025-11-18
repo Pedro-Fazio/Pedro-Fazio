@@ -1,12 +1,12 @@
-### Opa susse? 👋
+### Hey, what's up? 👋
 
-Sou bacharel em sistemas da informação pela universidade de São Paulo (USP) - ICMC. Apaixonado por tecnologia no geral, principalmente pela área de programação. Gosto muito de jogar uns games e estudar sobre assuntos do momento.
+I hold a Bachelor's degree in Information Systems from the University of São Paulo (USP) - ICMC. I am passionate about technology in general, especially the programming field. I really enjoy playing games and studying current topics.
 
-Como você pode me encontrar?
+How can you find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-pedrofazio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaclaraamorimandrade/)](https://www.linkedin.com/in/pedro-fazio-m/)
 
-### 💻 Minhas tecnologias
+### 💻
 ![C](https://img.shields.io/badge/C-44475a?style=for-the-badge&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-191970?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](	https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=white)
