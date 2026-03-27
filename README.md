@@ -2,7 +2,7 @@
 
 **Software Engineer | Back-end Developer (.NET/C#)**
 
-I hold a **B.Sc. in Information Systems from the University of São Paulo (USP - ICMC)**. I specialize in building robust back-end systems, scalable architectures, and automation engines. My focus is on writing clean, maintainable code and solving complex business logic problems.
+I hold a **B.Sc. in Information Systems from the University of São Paulo (USP - ICMC)**. I specialize in building fullstack systems, scalable architectures, and automation engines. My focus is on writing clean, maintainable code and solving complex business logic problems.
 
 Currently focusing on: **C#, ASP.NET Core, SQL Server, and Clean Architecture.**
 
