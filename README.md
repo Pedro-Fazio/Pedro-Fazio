@@ -22,10 +22,7 @@ Currently focusing on: **C#, ASP.NET Core, SQL Server, and Clean Architecture.**
 
 ### 📊 GitHub Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-fazio&theme=dracula&layout=compact&hide_border=true&custom_title=Top%20Languages&langs_count=6" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-fazio&theme=dracula&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true" alt="GitHub Stats" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-fazio&theme=dracula&layout=compact&hide_border=true&custom_title=Linguagens%20mais%20usadas&langs_count=6) ![Metrics](https://github-readme-stats.vercel.app/api?username=pedro-fazio&theme=dracula&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
 
 ---
 
